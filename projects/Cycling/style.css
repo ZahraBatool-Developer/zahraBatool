@@ -1,0 +1,170 @@
+.nav-top {
+    background-color: white;
+}
+
+#bg {
+    background-color: #d9f2e1;
+    padding: 40px 0px;
+
+}
+
+/* .image{
+    width: 400px;
+} */
+
+.div1 {
+    background-color: #e0eeff;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.para1 {
+    text-align: justify;
+    size: 20px;
+    color: grey;
+}
+
+.div2 {
+    background-color: #e0f4ea;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.div3 {
+    background-color: #eeeafe;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.div4 {
+    background-color: #e0f8f8;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px 0px;
+}
+
+.icon1 {
+    color: white;
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding-top: 30px;
+}
+
+.icon2 {
+    color: white;
+    background-color: #00a750;
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding-top: 30px;
+}
+
+.icon3 {
+    color: white;
+    background-color: #7754f6;
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding-top: 30px;
+}
+
+.icon4 {
+    color: white;
+    background-color: #00cacc;
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding-top: 30px;
+}
+
+#arrival {
+    background-color: #f2faf6;
+}
+
+.tag {
+    text-align: center;
+    width: 200px;
+    border-radius: 30px;
+    position: absolute;
+    right: 10px;
+    bottom: 445px;
+}
+
+.tag1 {
+    text-align: center;
+    width: 200px;
+    border-radius: 30px;
+    position: absolute;
+    right: 50px;
+    top: 510px;
+
+}
+
+.tag2 {
+    text-align: center;
+    width: 200px;
+    border-radius: 30px;
+    position: absolute;
+    top: 160px;
+    right: 340px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.button {
+    position: absolute;
+    left: 20px;
+    top: 10px;
+}
+
+.stars {
+    color: orangered;
+}
+
+.color {
+    color: grey;
+}
+
+.pic {
+    height: 190px;
+    object-fit: cover;
+}
+
+.card1 {
+    background-color: #fff0d9;
+}
+
+.card2 {
+    background-color: #caf2ff;
+}
+
+.pic1 {
+    height: 200px;
+}
+
+.img {
+    width: 200px;
+    object-fit: cover;
+
+}
+
+.companies {
+    background-color: #f2faf6;
+}
+
+.shippping {
+    background-color: #f2faf6;
+}
+
+.list {
+    width: 100%;
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+}

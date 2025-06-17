@@ -1,0 +1,98 @@
+#schools {
+    background-color: rgb(0 116 140);
+}
+
+.image {
+    border: 6px solid #dee2e6;
+}
+
+#TEFschools {
+    background-color: #f4f4f4;
+}
+
+.text {
+    color: #d1d1d1;
+}
+
+#foooter {
+    background-color: rgb(43, 39, 39);
+}
+
+a {
+    text-decoration: none;
+    color: #7a7a7a;
+    display: inline-block;
+}
+
+ul li:last-child a {
+    border-bottom: 0px;
+}
+
+.list {
+    width: 100%;
+    margin-bottom: 10px;
+    border-bottom: 1px solid;
+}
+
+#bgimage {
+    padding: 80px 80px;
+    background-image: url('./Images/about-us.jpg');
+}
+
+.heading {
+    text-shadow: 2px 2px 5px black;
+}
+
+#ourvision {
+    padding: 70px 0px;
+    background-image: url('./Images/our-vision.jpg');
+    background-size: cover;
+}
+
+.pic {
+    border: 5px solid white;
+    border-radius: 2px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.info {
+    text-align: justify;
+    line-height: 2;
+    font-size: 1.1rem;
+}
+
+#view {
+    padding: 90px 0px;
+    padding-top: 150px;
+}
+
+#ourvalues {
+    padding: 80px 0px;
+    background-image: url('./Images/our-values.jpg');
+    background-size: cover;
+
+}
+
+.main-conatiner {
+    padding: 70px 0px;
+}
+
+.height {
+    min-height: 600px;
+}
+
+.height2 {
+    min-height: 500px;
+}
+
+.homepage {
+    list-style: none;
+    color: #7a7a7a;
+    text-align: center;
+    padding: 20px;
+    min-height: 30px;
+    font-weight: bold;
+}
+.infor{
+    text-align: justify;
+}

@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: 0px auto;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.topul {
+    display: flex;
+    gap: 30px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.text {
+    font-size: large;
+    color: grey;
+}
+
+#features {
+    background-color: #f1f1f1;
+
+}
+
+.silder {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.shop {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: normal;
+}
+
+.storing {
+    display: flex;
+    gap: 15px;
+}
+
+.troly {
+    color: #99d6e6;
+}
+
+#store {
+    margin: 60px 0PX;
+    padding: 30px 0px;
+
+}
+
+.cot {
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+h2 {
+    font-weight: normal;
+
+}
+
+.para {
+    color: #a5b1bb;
+}
+
+.price {
+    display: flex;
+    gap: 150px;
+    align-items: center;
+}
+
+.cell {
+    display: flex;
+    gap: 20px;
+}
+
+.tag {
+    padding: 30px 10px;
+}
+
+.mobl {
+    font-size: 50px;
+}
+
+#phones {
+    margin: 20px 0px;
+}
+
+.pay {
+    color: #16a4c7;
+    font-size: large;
+}
+
+.watch {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#watches {
+    margin: 30px 0px;
+    margin-top: 50px;
+}
+
+.texting {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+#sales {
+    background-color: #f1f1f1;
+    margin-top: 90px;
+}
+
+.shops {
+    padding: 15px 50px;
+}
+
+.updates {
+    display: flex;
+    gap: 30px;
+}
+
+.sizing {
+    width: 400px;
+}
+
+.pods {
+    margin: 70px 0px;
+}
+
+.post {
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+
+.head {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+.feb {
+    color: #a2a9ab;
+}
+
+#writing {
+    margin: 50px 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+.star {
+    color: #16a4c7;
+    padding: 10px;
+}
+
+.font {
+    font-size: 27px;
+    padding: 20px;
+    color: #7c7e7f;
+}
+
+.now {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 45px;
+    gap: 60px;
+}
+
+#subscribe {
+    margin: 50px;
+}
+
+.sub {
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.para1 {
+    font-size: 20px;
+    color: #7c7e7f;
+
+}
+
+.inform {
+    padding: 20px 30px;
+    color: black;
+    background-color: #ffffff;
+    font-size: 15px;
+    border: none;
+}
+
+.anchor {
+    padding: 17px 20px;
+    color: rgb(255, 255, 255);
+    background-color: #36daf7;
+    font-size: 15px;
+}
+
+.btn {
+    display: flex;
+}
+
+.closing {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 0px;
+}
+
+h4 {
+    font-size: 25px;
+    color: #000000;
+    padding-bottom: 10px;
+    font-weight: normal;
+}
+
+.lists {
+    color: #7c7e7f;
+}
+
+#end {
+    background-color: #ebebeb;
+}
+
+.text2 {
+    color: #918e8e;
+
+}
